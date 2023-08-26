@@ -8,3 +8,7 @@ Test - จำนวน 673 รูป
 info.csv - ลักษณะสีเปลือกสับปะรดปัตตาเวีย
 
 !kaggle competitions download -c fruit-ripening
+
+## Preprocess
+
+## Model - efficientnetv2_xl
