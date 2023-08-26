@@ -1,9 +1,9 @@
 # fruit_ripeness
 SuperAI SS3 : Hackaton Image processing (Classification) | Prediction Ripeness of Smooth Cayenne Pineapple 
 
-Train - ข้อมูลที่ใช้ในการ Train จำนวน 2,688 รูป (8 Classes)
+Train - จำนวน 2,688 รูป (8 Classes)
 
-Test - ข้อมูลที่ใช้ในการ Train จำนวน 673 รูป
+Test - จำนวน 673 รูป
 
 info.csv - ลักษณะสีเปลือกสับปะรดปัตตาเวีย
 
