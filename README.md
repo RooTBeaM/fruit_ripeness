@@ -15,7 +15,7 @@ info.csv - ลักษณะสีเปลือกสับปะรดปั
 6 : สับปะรดที่มีเปลือกตาสีส้มแดงประมาณ 20 - 100%
 7 : เปลือกน้ำตาลอมแดง แสดงอาการเน่า (อายุมากกว่า 165 วัน)
 
-!kaggle competitions download -c fruit-ripening
+Load Dataset >>> !kaggle competitions download -c fruit-ripening
 
 ## Preprocess
 
