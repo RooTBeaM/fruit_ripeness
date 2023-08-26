@@ -1,7 +1,9 @@
 # fruit_ripeness
-SuperAI SS3 : Hackaton Image processing (Classification) | Prediction Ripeness of Smooth Cayenne Pineapple<br />
-Train - จำนวน 2,688 รูป (8 Classes)<br />
-Test - จำนวน 673 รูป<br />
+SuperAI SS3 : Hackaton Image processing (Classification) | Prediction Ripeness of Smooth Cayenne Pineapple
+
+Train - จำนวน 2,688 รูป (8 Classes)
+
+Test - จำนวน 673 รูป
 
 info.csv - ลักษณะสีเปลือกสับปะรดปัตตาเวีย <br />
 0 : สับปะรดที่มีเปลือกตาสีเขียวทั้งหมด<br />
