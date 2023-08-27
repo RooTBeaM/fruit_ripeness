@@ -22,7 +22,7 @@ Load Dataset >>> !kaggle competitions download -c fruit-ripening
 <img src="./pic/mask_rm_bg.png">
 
 ## Model - efficientnet_b7
-<img src="./pic/efficientnet_b7.png>
+<img src="./pic/efficientnet_b7.png">
 
 ## Model - maxvit_base_tf_384
-<img src="./pic/maxvit_base_tf_384.png>
+<img src="./pic/maxvit_base_tf_384.png">
